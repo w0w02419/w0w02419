@@ -1,16 +1,16 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 🖤
 
-<!--
-**w0w02419/w0w02419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e Maria Eduarda
 
-Here are some ideas to get you started:
+- Estou estudando o [Alura](https://www.alura.com.br)
+- Estou me desnvolvendo na linguagem javaScript
+- Utilizo esse espaço para minha organizaçao e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Voce entrar em contato comigo 📫
+
+mykael.myk16@gmail.com
+
+@w0w02419
+
+![](https://media1.tenor.com/m/NfEGhy9EiWkAAAAC/jealous.gif)
+
